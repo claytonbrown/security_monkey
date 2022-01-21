@@ -45,7 +45,7 @@ setup(
             'bottle==0.12.3',
             'dnspython==1.11.1',
             'ipaddr==2.1.11',
-            'ipython==1.2.0',
+            'ipython==7.16.3',
             'itsdangerous==0.23',
             'mock==1.0.1',
             'nose==1.3.0',
